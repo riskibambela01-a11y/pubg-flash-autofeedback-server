@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/feedback.js": {
+      "runtime": "nodejs24.x"
+    }
+  }
+}
