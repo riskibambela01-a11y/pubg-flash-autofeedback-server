@@ -227,9 +227,9 @@ export default async function handler(req, res) {
     "      𓆩 🏆 𓆪 ◀ B A N ▶ 𓆩 🏆 𓆪\n" +
     "        𖤐 AUTO FEEDBACK 𖤐\n" +
     "╚═══━━━─── • ───━━━═══╝\n" +
-    "🏆PUBG FLASH 🏆\n" +
+    "🏆PUBG⚡FLASH 🏆\n" +
     "🔥 AUTO FEEDBACK 🔥\n" +
-    "🦠 Bahan: PUBGM-FLASH V1\n" +
+    "🦠 Bahan: PUBGM⚡FLASH V1\n" +
     htmlEscape(pubgDisplay) +
     "\n" +
     "👤 Nickname: " +
